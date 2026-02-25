@@ -1,5 +1,4 @@
-<img width="1000" height="100" alt="image-2024-05-24-133734906" src="https://github.com/user-attachments/assets/c5a79fbb-6a84-4fa5-8c28-e842da5da660" />
-
+<img width="1000" height="100" alt="image-2024-05-24-133734906" src="https://github.com/user-attachments/assets/528a2a76-06a4-4030-93e4-b17d25a1326b" />
 
   <p align="center">
 Hi my name is Pinkie Pie!
@@ -20,7 +19,7 @@ Timezone: 17:46 (UTC -05:00)
    <p align="center">
 I am from the USA but I am also Irish & Ukrainian & some other stuff!
    <p align="center">
-I am very active on Ponytown and Discord!
+I am very active on Ponytown and Discord!     
    <p align="center"> 
 As you can probably tell I LOVE Pinkie Pie!! 
      
