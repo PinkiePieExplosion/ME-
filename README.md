@@ -1,6 +1,10 @@
 <img width="1000" height="100" alt="image-2024-05-24-133734906" src="https://github.com/user-attachments/assets/528a2a76-06a4-4030-93e4-b17d25a1326b" />
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312argo3gyfsw7mhwzdd6tmswldm&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=312argo3gyfsw7mhwzdd6tmswldm&redirect=true)
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=312argo3gyfsw7mhwzdd6tmswldm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
+  </a>
+</p>
 
 ![IMG_8006](https://github.com/user-attachments/assets/38c089e8-eea0-4b80-9b77-a7ce6ec92351) Hi my name is Pinkie Pie!
 
@@ -23,6 +27,5 @@ I am from the USA but I am also Irish & Ukrainian & some other stuff!
 I am very active on Ponytown and Discord!
 
 As you can probably tell I LOVE Pinkie Pie!! 
-     
 
 <img width="1000" height="100" alt="image-2024-05-24-133746247" src="https://github.com/user-attachments/assets/7eb11f41-2146-496a-a884-c7e188211837" />
