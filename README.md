@@ -14,7 +14,7 @@ My Kemonomimi type is a Golden Shepard!! (Golden Retriever x German Shepherd)
   <img width="500" height="33" alt="image-2024-05-26-153929846" src="https://github.com/user-attachments/assets/6755bf62-f292-426f-88e6-9771f8de55bf" /> 
 
 
-![IMG_8006](https://github.com/user-attachments/assets/38c089e8-eea0-4b80-9b77-a7ce6ec92351) Timezone: 17:46 (UTC -05:00)
+![IMG_8006](https://github.com/user-attachments/assets/38c089e8-eea0-4b80-9b77-a7ce6ec92351) Timezone: (UTC -05:00)
 
 I am from the USA but I am also Irish & Ukrainian & some other stuff!
 
