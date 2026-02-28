@@ -31,7 +31,7 @@ As you can probably tell I LOVE Pinkie Pie!!
 <img width="1000" height="100" alt="image-2024-05-24-133746247" src="https://github.com/user-attachments/assets/7eb11f41-2146-496a-a884-c7e188211837" />
 
  <p align="center"> 
-I can make Github repositories!: Examples below!! 
+I can make Github repositories!: Examples below!! (Whisper me on pt for discord info to get one! I do them for free for now or for a ponytown skin!)
 
  <p align="center"> 
 <img src="https://media.discordapp.net/attachments/1342017505161379852/1477054770035425342/Screenshot_2026-02-27-22-27-40-242_com.android.chrome.jpg?ex=69a35df3&amp;is=69a20c73&amp;hm=66be782d915a3733acacb0e23f4061b074fbe601658d1f8759d3934643342d30&amp;=&amp;format=webp&amp;width=326&amp;height=725" alt="Image"/> <img src="https://media.discordapp.net/attachments/1342017505161379852/1477054770794729735/Screenshot_2026-02-27-22-27-45-971_com.android.chrome.jpg?ex=69a35df3&amp;is=69a20c73&amp;hm=6207e35744299ed8b5363fd9d61a801b7f527cbff7955cd5ff8bb8e35f9a5bac&amp;=&amp;format=webp&amp;width=326&amp;height=725" alt="Image"/>
