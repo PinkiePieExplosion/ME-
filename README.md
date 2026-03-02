@@ -30,6 +30,10 @@ As you can probably tell I LOVE Pinkie Pie!!
 
 <img width="1000" height="100" alt="image-2024-05-24-133746247" src="https://github.com/user-attachments/assets/7eb11f41-2146-496a-a884-c7e188211837" />
 
+_____________________________
+
+<img width="1000" height="100" alt="image-2024-05-24-133734906" src="https://github.com/user-attachments/assets/528a2a76-06a4-4030-93e4-b17d25a1326b" />
+
  <p align="center"> 
 I can make Github repositories!: Examples below!! (Whisper me on pt for discord info to get one! I do them for free for now or for a ponytown skin/art!)
 
@@ -53,3 +57,8 @@ ___________________________________________________________
 GitHub user: @bumblebeez-ko
 
 <p align="center"> 
+<img width="500" height="1000" alt="image" src="https://github.com/user-attachments/assets/7aad1f5f-4ad8-44be-bfe2-b32d63b8a874" />
+
+
+
+<img width="1000" height="100" alt="image-2024-05-24-133746247" src="https://github.com/user-attachments/assets/7eb11f41-2146-496a-a884-c7e188211837" />
