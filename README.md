@@ -57,13 +57,6 @@ ___________________________________________________________
 GitHub user: @bumblebeez-ko
 
 <p align="center"> 
-><img width="500" height="1000" alt="image" src="https://github.com/user-attachments/assets/03a5cd1a-c3c2-4086-81d1-b20958520de3" /> <img width="500" height="1000" alt="image" src="https://github.com/user-attachments/assets/4c6e8c03-f3c0-4912-9c35-892eb21145b0" /> <img width="500" height="1000" alt="image" src="https://github.com/user-attachments/assets/58e6a95f-3e13-4491-9221-5292e0b8afbd" /> ><img width="500" height="1000" alt="image" src="https://github.com/user-attachments/assets/c65a2121-2772-42ea-bcb5-8dcafcf6b872" />
-
-
-
-
-
-
-
+<img width="334" height="725" alt="image" src="https://github.com/user-attachments/assets/347e427f-634b-407b-82d4-a1d3c3e835ef" /> <img width="334" height="725" alt="image" src="https://github.com/user-attachments/assets/18b05dae-9f3f-423f-982c-c6ae5689da68" /> <img width="334" height="725" alt="image" src="https://github.com/user-attachments/assets/3fde1f90-c20d-4eff-a4ad-f8145d818355" /> <img width="334" height="725" alt="image" src="https://github.com/user-attachments/assets/d2ba37f9-5039-4817-b903-bce71d30c45e" />
 
 <img width="1000" height="100" alt="image-2024-05-24-133746247" src="https://github.com/user-attachments/assets/7eb11f41-2146-496a-a884-c7e188211837" />
