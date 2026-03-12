@@ -35,6 +35,9 @@ I am very active on Ponytown and Discord!
 
 As you can probably tell I LOVE Pinkie Pie!! 
 
+<p align="center">
+credit @lavendergalactic on Tumblr for blinkies.  
+
 <img width="1000" height="100" alt="image-2024-05-24-133746247" src="https://github.com/user-attachments/assets/7eb11f41-2146-496a-a884-c7e188211837" />
 
 _____________________________
